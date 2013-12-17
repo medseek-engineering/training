@@ -1,0 +1,8 @@
+this is a sample file that i am changing
+<<<<<<< HEAD
+=======
+we will edit this a lot 
+this is a sample file
+this is a sample file
+this is modified file
+>>>>>>> ac43b117739bd0a4ecfae14fcff2301d2a5ad2dc
