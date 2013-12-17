@@ -1,3 +1,14 @@
+
+this is a sample file that i am changing
+we will edit this a lot 
+this is a sample file
+this is a sample file
+this is a sample file
+this is a sample file
+testing edit existing file
+some random stuff--- test himanshu
+
+some text - test Nagendra
 The sample file in the branch feature/roy has been modified.
 This is a second line of modificaiton that has been added by the first user.
 
