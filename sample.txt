@@ -1,5 +1,2 @@
 this is a sample file that i am changing
-we will edit this a lot 
-this is a sample file
-this is a sample file
-this is modified file
+This added by sarid
