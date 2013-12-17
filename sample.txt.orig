@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+some random stuff--- test himanshu
+=======
 this is a sample file that i am changing
 we will edit this a lot 
 this is a sample file
@@ -5,7 +8,4 @@ this is a sample file
 this is a sample file
 this is a sample file
 testing edit existing file
-some random stuff--- test himanshu
-test - Sahana
-Updating file - Sahana
-stash - sahana
+>>>>>>> origin/feature/sahanan
