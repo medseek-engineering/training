@@ -5,7 +5,7 @@ this is a sample file
 some new text--himanshu
 
 - test (Nag)
-- Added (Sarid)
+- Added for stashing(Sarid)
 - Added by me for stashing (Usha)
 - Modified by Usha  to get the conflict(Usha)
 - Added by veera (veera)

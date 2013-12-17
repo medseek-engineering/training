@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-this is a sample file 
-- update (Amit)
-=======
 
 
 some new text--himanshu
 
 - test (Nag)
+<<<<<<< HEAD
+- Added for stashing(Sarid)
+- Added by me for stashing (Usha)
+=======
 - Added (Sarid)
 - Added by me for stashing (Usha)
 - Modified by Usha  to get the conflict(Usha)
@@ -28,4 +28,4 @@ stash - sahana
 test again - sahana
 
 test by veera
->>>>>>> feature/one
+>>>>>>> 40932fcd1e20e41dc6178177775dff4d6a7f4d06
