@@ -3,9 +3,16 @@
 some new text--himanshu
 
 - test (Nag)
+<<<<<<< HEAD
+- Added for stashing(Sarid)
+- Added by me for stashing (Usha)
+=======
 - Added (Sarid)
 - Added by me for stashing (Usha)
-<<<<<<< HEAD
+- Modified by Usha  to get the conflict(Usha)
+- Added by veera (veera)
+- Modified by veera  to get the conflict(veera)
+
 this is a sample file that i am changing
 we will edit this a lot
 this is a sample file
@@ -20,10 +27,5 @@ stash - sahana
 
 test again - sahana
 
-
-=======
-- Added by Amit (Usha)
-- Modified by Usha  to get the conflict(Usha)
-- Added by veera (veera)
-- Added by amit (Amit)
->>>>>>> c078db4292ef8854c3f0a114a78b4aabc8f1f28d
+test by veera
+>>>>>>> 40932fcd1e20e41dc6178177775dff4d6a7f4d06
