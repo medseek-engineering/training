@@ -1,5 +1,7 @@
 New file created
 
-Updated sample text
+<<<<<<< .mineUpdated sample text
 
-updated text after stashing changes
+=======Updated sample text
+
+>>>>>>> .theirsStashing changesupdated text after stashing changes
