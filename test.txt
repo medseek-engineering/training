@@ -1,0 +1,6 @@
+New file created
+
+Updated sample text
+
+Stashing changes
+updated text after stashing changes
