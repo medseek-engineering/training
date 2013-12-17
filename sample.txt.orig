@@ -1,11 +1,11 @@
 some new text--himanshu
 
 - test (Nag)
-<<<<<<< HEAD
-- Added by me (Usha)
 - Added (Sarid)
-=======
-- test 2 (Veera)
-- Added by me (Usha)
 - Added by me for stashing (Usha)
->>>>>>> ca0cdda57bd7761c85847766b3251a87c174d0f6
+<<<<<<< HEAD
+- Added by Amit (Usha)
+=======
+- Modified by Usha  to get the conflict(Usha)
+>>>>>>> a69b50d67aa11faa3dc4a67b30ec6b7da61f1ea4
+- Added by veera (veera)
