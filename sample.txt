@@ -18,5 +18,9 @@ some random stuff--- test himanshu
 test - Sahana
 Updating file - Sahana
 stash - sahana
+<<<<<<< Updated upstream
+test again - sahana
+>>>>>>> Stashed changes
+=======
 test again - sahana
 >>>>>>> Stashed changes
