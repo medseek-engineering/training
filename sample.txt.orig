@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 this is a sample file 
 - update (Amit)
+=======
 
 
 some new text--himanshu
@@ -26,3 +28,4 @@ stash - sahana
 test again - sahana
 
 test by veera
+>>>>>>> feature/one
