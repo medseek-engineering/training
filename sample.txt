@@ -1,1 +1,2 @@
-this is the modified text
+this is a sample file
+we will edit this a lot 
