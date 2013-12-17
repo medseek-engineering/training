@@ -1,1 +1,2 @@
-the sample file in the branch feature/roy has been modified
+The sample file in the branch feature/roy has been modified.
+This is a second line of modificaiton that has been added by the first user.
