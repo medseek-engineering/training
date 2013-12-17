@@ -1,6 +1,28 @@
+this is a sample file 
+- update (Amit)
+
+
+some new text--himanshu
+
+- test (Nag)
+- Added (Sarid)
+- Added by me for stashing (Usha)
+- Modified by Usha  to get the conflict(Usha)
+- Added by veera (veera)
+- Modified by veera  to get the conflict(veera)
+
 this is a sample file that i am changing
-we will edit this a lot 
+we will edit this a lot
 this is a sample file
 this is a sample file
 this is a sample file
 this is a sample file
+testing edit existing file
+some random stuff--- test himanshu
+test - Sahana
+Updating file - Sahana
+stash - sahana
+
+test again - sahana
+
+test by veera

@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>welcome to git training</title>
+    </head>
+    <body>
+        <h2>Git Commands</h2>
+        <ul>
+            <li><b>git init : </b>Initializes a git repository – creates the initial ‘.git’ directory in a new or in an existing project
+                  <b>Example:</b> git init
+            </li>
+             <li><b>git clone : </b>Makes a Git repository copy from a remote source. Also adds the original location as a remote so you can fetch from it again and push to it if you have permissions.
+                 <b>Example:</b> git clone git@github.com:user/test.git
+            </li>
+             <li><b>git add : </b>Adds files changes in your working directory to your index.
+                 <b>Example:</b> git add .
+            </li>
+			
+			<li><b>git commit : </b>Takes all of the changes written in the index, creates a new commit object pointing to it and sets the branch to point to that new commit.
+			<b>Example:</b> git commit -m ‘committing added changes’
+            </li>
+			
+			<li><b>git push : </b>Pushes all the modified local objects to the remote repository and advances its branches.
+			<b>Example:</b> git push 
+            </li>
+			
+			<li><b>git pull : </b>Fetches the files from the remote repository and merges it with your local one. This command is equal to the git fetch and the git merge sequence.
+			<b>Example:</b> git pull 
+            </li>
+			
+			<li><b>git rm : </b>Removes files from your index and your working directory so they will not be tracked.
+			<b>Example:</b> git rm filename 
+            </li>
+			
+			<li><b>git status : </b>Shows you the status of files in the index versus the working directory. It will list out files that are untracked (only in your working directory), modified (tracked but not yet updated in your index), and staged (added to your index and ready for committing).
+			<b>Example:</b> git status
+            </li>
+			
+			<li><b>git branch : </b>Lists existing branches, including remote branches if ‘-a’ is provided. Creates a new branch if a branch name is provided.
+			<b>Example:</b>  git branch -a
+            </li>
+			
+			<li><b>git checkout : </b>Checks out a different branch – switches branches by updating the index, working tree, and HEAD to reflect the chosen branch.
+			<b>Example:</b>  git checkout newbranch
+            </li>
+			
+			<li><b>git merge : </b>Merges one or more branches into your current branch and automatically creates a new commit if there are no conflicts.
+			<b>Example:</b>  git merge newbranchversion
+            </li>
+			
+			<li><b>git stash : </b>Temporarily saves changes that you don’t want to commit immediately. You can apply the changes later. 
+			<b>Example:</b>  git stash and for get the changes git stash apply
+            </li>
+			
+        </ul>
+    </body>
+</html>
