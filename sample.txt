@@ -4,6 +4,7 @@ some new text--himanshu
 - test (Nag)
 - Added (Sarid)
 - Added by me for stashing (Usha)
+<<<<<<< HEAD
 - Added by me for stashing (Usha)
 - Stashing test (Sahana)
 =======
@@ -24,3 +25,7 @@ test again - sahana
 =======
 test again - sahana
 >>>>>>> Stashed changes
+=======
+- Modified by Usha  to get the conflict(Usha)
+- Added by veera (veera)
+>>>>>>> a69b50d67aa11faa3dc4a67b30ec6b7da61f1ea4
