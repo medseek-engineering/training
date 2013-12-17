@@ -1,6 +1,2 @@
-this is a sample file that i am changing
-we will edit this a lot 
-this is a sample file
-this is a sample file
-this is a sample file
-this is a sample file
+This is new modified file
+This is new modified file
