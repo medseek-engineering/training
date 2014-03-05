@@ -1,1 +1,1 @@
-This file has also been modified for the purpose of training.
+training
