@@ -20,7 +20,7 @@ A file can reside in one of 3 states:
 
 ## Dos ##
 - Commit often
-- Provide meaningful commit messages
+- Use "ABCD-123 #comment some meaningful comments about the commit" where ABCD-123 is the Jira scenario number
 - Update your feature branch often
 - Learn to use Git from the command-line
 
