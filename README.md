@@ -16,9 +16,9 @@ A file can reside in one of 3 states:
 2. Working directory - a single checkout of one version of the project.
 3. Staging area - stores information about what will go into the next commit. Also called the index.
 
-#Dos and Don'ts#
+#Do's and Don'ts#
 
-## Dos ##
+## Do's ##
 - Commit often
 - Use "ABCD-123 #comment some meaningful comments about the commit" where ABCD-123 is the Jira scenario number
 - Update your feature branch often
@@ -26,7 +26,9 @@ A file can reside in one of 3 states:
 
 ## Don'ts ##
 - Do NOT create branches
+- Do NOT commit anything to the develop or master branches
 - Do NOT perform tasks directly in GitHub other than working on pull requests (creating, closing, and commenting)
 
 # Links #
 - [http://git-scm.com/documentation](http://git-scm.com/documentation "Git Documentation")
+- [http://nvie.com/posts/a-successful-git-branching-model/](http://nvie.com/posts/a-successful-git-branching-model/ "GitFlow")
