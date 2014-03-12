@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 conflict
 hi changed by new user
+=======
+Hi how are you
+>>>>>>> 20ed8be2c470be7dd63ba8f5063e73ece3a9b9ba
