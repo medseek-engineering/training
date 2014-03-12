@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi this is sample.txt page 
 
+=======
+hi this is sample page you can change what 
+>>>>>>> b816e7a7eafb25aa2fc661d22681fe54a721b87c
