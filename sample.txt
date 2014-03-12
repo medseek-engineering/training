@@ -1,4 +1,2 @@
-
-hi changed by new user
-Hi how are you
+Hi this is sample.txt page 
 
