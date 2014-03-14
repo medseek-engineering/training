@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 This is new page
 -- This is a new addition to the already existing page
 -- Pls ignore.
+=======
+this is modified
+
+hi how are you ???
+
+
+
+>>>>>>> 59c84ed021639684b53587baed3f3c0a171e4274
