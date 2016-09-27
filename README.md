@@ -19,13 +19,13 @@ A file can reside in one of 3 states:
 #Do's and Don'ts#
 
 ## Do's ##
+- Create a feature branch for the issue you are working on.
 - Commit often
 - Use "ABCD-123 #comment some meaningful comments about the commit" where ABCD-123 is the Jira scenario number
 - Update your feature branch often
 - Learn to use Git from the command-line
 
 ## Don'ts ##
-- Do NOT create branches
 - Do NOT commit anything to the develop or master branches
 - Do NOT perform tasks directly in GitHub other than working on pull requests (creating, closing, and commenting)
 
